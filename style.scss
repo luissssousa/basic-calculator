@@ -49,6 +49,9 @@ h1{
 .calculadora{
     @include card;
 
+    label{
+        display: none;
+    }
     .cinputs{
         display: flex;
         flex-direction: row;

@@ -24,6 +24,9 @@ h1 {
   border-radius: 24px;
   background-color: rgb(235, 235, 235);
 }
+.calculadora label {
+  display: none;
+}
 .calculadora .cinputs {
   display: flex;
   flex-direction: row;
